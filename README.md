@@ -3,7 +3,7 @@
 
 DeepTrading is a collection of Jupyter notebooks. The objective is to organize in a systematic but flexible way all the necessary steps to calculate and conceive trading systems based on the Tensorflow software.
 
-For more info see: [TodoTrader DeepTrading Tensorflow serie](https://todotrader.com/)
+For more info see: [TodoTrader DeepTrading Tensorflow serie](https://todotrader.com/deeptrading-with-tensorflow/)
 
 ### Installation
 
