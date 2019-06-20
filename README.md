@@ -1,4 +1,4 @@
-# TradingGym
+# DeepTrading
 
 
 DeepTrading is a collection of Jupyter notebooks. The objective is to organize in a systematic but flexible way all the necessary steps to calculate and conceive trading systems based on the Tensorflow software.
