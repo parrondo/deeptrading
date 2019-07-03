@@ -17,4 +17,19 @@ cd deeptrading
 conda env create --file environment.yml
 ```
 
+It's likely you want to have a .env file. It is a configuration text file that is used to define some variables you want to pass into your application's environment.
+
+Example of .env file:
+
+~~~
+PROJ_DIR=.
+DATA_DIR=../data/
+RAW_DIR=../data/raw/
+INTERIM_DIR=../data/interim/
+PROCESSED_DIR=../data/processed/
+FIGURES_DIR=../reports/figures/
+MODEL_DIR=../models/
+EXTERNAL_DIR=../data/external/
+PRODUCTION_DIR=/home/PRODUCTION/
+~~~
 
