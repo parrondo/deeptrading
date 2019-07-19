@@ -6,11 +6,11 @@ For more info see: [TodoTrader DeepTrading Tensorflow serie](https://todotrader.
 
 ## Installation
 
-If you are Black Belt (BB) then &quot;Quick Way&quot; is your way of installation, else use Detailed Way.
+If you are Black Belt (BB) then &quot;Quick Way&quot; is your way of installation, else use &quot;Detailed Way&quot;.
 
 What!, wait...Am I a Black Belt?
 
-Well, if you can use these Jupyter notebooks with Quick Way instructions then sure, you are a BB.
+Well, if you can use these Jupyter notebooks with &quot;Quick Way&quot; instructions then sure, you are a BB.
 
 ## Quick Way (Black Belt)
 
@@ -61,10 +61,11 @@ At the end of these instructions, you should be able to:
 
 ### What You Need
 
-You should have Bash (Git Bash) and the Anaconda distribution of Python 3.x setup on your computer and an deeptrading working directory. Be sure you have:
+You should have Bash, Git (Git Bash for Windows users) and the Anaconda distribution of Python 3.x setup on your computer and an deeptrading working directory. Installation of Git Bash (Windows users) and Anaconda is out of the scope of these instructions. Here you can find the hyperlink and below, how to test your set-up.
+So, Be sure you have:
 
-- Completed the setup for Bash (Git Bash)
-- Complete the setup for Anaconda
+- Completed the setup for Bash and Git, or [Git Bash for Windows users](https://gitforwindows.org/)
+- Completed the setup for [Anaconda](https://www.anaconda.com/)
 - Created a deeptrading directory on your computer
 
 Information below is adapted from materials developed by the Conda documentation for [installing conda](https://conda.io/docs/user-guide/install/index.html) and [managing packages](https://conda.io/docs/user-guide/tasks/manage-pkgs.html).
